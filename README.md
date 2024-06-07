@@ -9,14 +9,7 @@ Bem-vindo ao repositório do Projeto Ocean Drones! Este projeto visa monitorar e
 - [Descrição do Projeto](#descrição-do-projeto)
   - [Predição de Lixo no Oceano](#predição-de-lixo-no-oceano)
   - [Classificação de Imagens de Manguezais](#classificação-de-imagens-de-manguezais)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Instalação](#instalação)
-- [Uso](#uso)
-  - [Predição de Lixo](#predição-de-lixo)
-  - [Classificação de Imagens](#classificação-de-imagens)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ---
 
