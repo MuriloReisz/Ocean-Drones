@@ -7,8 +7,8 @@ Bem-vindo ao repositório do Projeto Ocean Drones! Este projeto inovador visa mo
 ## Sumário
 
 - [Descrição do Projeto](#descrição-do-projeto)
-  - [Predição de Lixo no Oceano](#predição-de-lixo-no-oceano)
-  - [Classificação de Imagens de Manguezais](#classificação-de-imagens-de-manguezais)
+- [Predição de Lixo no Oceano](#predição-de-lixo-no-oceano)
+- [Classificação de Imagens de Manguezais](#classificação-de-imagens-de-manguezais)
 
 
 ---
