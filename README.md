@@ -1,6 +1,18 @@
 # Projeto Ocean Drones
 
+> [!NOTE]
+>INTEGRANTES
+
+> Nome: Eduardo Fagundes Correa | RM: 97195 <BR>
+> Nome: Murilo Ariel Reis | RM: 97002 <BR>
+> Nome: Luiz Henrique de Jesus do Nascimento | RM: 96335 <BR>
+> Nome: Samuel Enderson Lima da Silva | RM: 96677 <BR>
+
+---
+
+
 Bem-vindo ao repositório do Projeto Ocean Drones! Este projeto inovador visa monitorar e analisar a distribuição de lixo nos oceanos e identificar espécies nos manguezais, utilizando drones e técnicas avançadas de ciência de dados e visão computacional. Nosso objetivo é fornecer insights valiosos para a preservação dos ecossistemas marinhos e costeiros.
+
 
 ---
 
