@@ -1,6 +1,7 @@
 # Projeto Ocean Drones
 
 Bem-vindo ao repositório do Projeto Ocean Drones! Este projeto inovador visa monitorar e analisar a distribuição de lixo nos oceanos e identificar espécies nos manguezais, utilizando drones e técnicas avançadas de ciência de dados e visão computacional. Nosso objetivo é fornecer insights valiosos para a preservação dos ecossistemas marinhos e costeiros.
+
 ---
 
 ## Sumário
