@@ -30,4 +30,5 @@ Este componente utiliza técnicas sofisticadas de visão computacional para iden
 - 3 tipos de lixo, cuja presença impacta negativamente os ecossistemas.
 
 Esta classificação é fundamental para monitorar a saúde dos ecossistemas de manguezais e implementar estratégias de conservação adequadas. Ao identificar espécies invasoras e a presença de lixo, podemos tomar medidas rápidas para mitigar danos e preservar a biodiversidade.
+
 ---
